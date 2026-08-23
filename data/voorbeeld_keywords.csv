@@ -1,16 +1,16 @@
-keyword,impressions,clicks,cost,conversions,CPA
-[reserveonderdelen scheepsmotor],8420,312,486.50,18,27.03
-[marine spare parts],5210,198,301.20,11,27.38
-"scheepsonderdelen kopen",6890,245,378.90,9,42.10
-"onderdelen buitenboordmotor",3450,156,201.40,7,28.77
-boot reserveonderdelen,12300,489,712.30,4,178.08
-scheepsmotor onderdelen,9870,401,598.20,15,39.88
-[Volvo Penta onderdelen],4560,178,267.80,12,22.32
-"offshore spare parts NL",2100,67,98.40,3,32.80
-gratis scheepsonderdelen,7650,298,445.60,0,0.00
-scheeps accessoires,5430,201,289.90,2,144.95
-[marine engine parts supplier],3890,145,198.70,10,19.87
-onderhoud scheepsmotor,4210,167,231.50,5,46.30
-"waterpomp boot vervangen",2890,98,142.30,6,23.72
-scheepsdieselmotor onderdelen,6120,234,356.80,13,27.45
-tweedehands scheepsonderdelen,3670,189,278.90,1,278.90
+keyword,match_type,impressions,clicks,cost,conversions,CPA
+reserveonderdelen scheepsmotor,Exact,8420,312,486.50,18,27.03
+marine spare parts,Exact,5210,198,301.20,11,27.38
+scheepsonderdelen kopen,Phrase,6890,245,378.90,9,42.10
+onderdelen buitenboordmotor,Phrase,3450,156,201.40,7,28.77
+boot reserveonderdelen,Broad,12300,489,712.30,4,178.08
+scheepsmotor onderdelen,Broad,9870,401,598.20,15,39.88
+Volvo Penta onderdelen,Exact,4560,178,267.80,12,22.32
+offshore spare parts NL,Phrase,2100,67,98.40,3,32.80
+gratis scheepsonderdelen,Broad,7650,298,445.60,0,0.00
+scheeps accessoires,Broad,5430,201,289.90,2,144.95
+marine engine parts supplier,Exact,3890,145,198.70,10,19.87
+onderhoud scheepsmotor,Broad,4210,167,231.50,5,46.30
+waterpomp boot vervangen,Phrase,2890,98,142.30,6,23.72
+scheepsdieselmotor onderdelen,Broad,6120,234,356.80,13,27.45
+tweedehands scheepsonderdelen,Broad,3670,189,278.90,1,278.90
