@@ -1,0 +1,22 @@
+# Secrets - nooit committen
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output (rapporten lokaal houden, niet in git)
+output/*.md
+output/*.pdf
+!output/.gitkeep
