@@ -18,5 +18,5 @@ Thumbs.db
 
 # Output (rapporten lokaal houden, niet in git)
 output/*.md
-output/*.pdf
 !output/.gitkeep
+!output/audit_rapport_20260823_101848.md
